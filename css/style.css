@@ -1,0 +1,68 @@
+body{
+	background: #f0f2f5;
+	text-align: center;
+}
+
+img{
+	width: 30%;
+	height: 30%;
+	text-align: center;
+}
+section{
+	font-family: arial;
+	font-size: 30px;
+	text-align: center;
+}
+p{
+	margin: 100px;
+}
+.formm{
+	box-shadow:2px 2px 2px 2px #d3d3d3;
+	position: absolute;
+	top: 40%;
+	left:25%;
+	width: 50%;
+	height: 350px;
+	background: white;
+	border-bottom-right-radius:	8px;
+	border-bottom-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+}
+input,button{
+	text-align: center;
+	margin: 10px;
+	background:transparent;
+	width: 80%;
+	height: 50px;
+}
+input{
+	border: solid gray 1px;
+	font-size: 16px;
+	border-bottom-right-radius:	8px;
+	border-bottom-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+}
+.bott{
+	background: rgb(0, 153, 255);
+	color: white;
+	border: solid rgb(0, 153, 255) 1px;
+	font-size: 20px;
+	border-bottom-right-radius:	8px;
+	border-bottom-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+}
+.ini{
+	color: white;
+	text-decoration: none;
+
+}
+.olvi{
+	text-decoration: none;
+	font-family: arial;
+}
+#correo{
+	margin-top: 10%;
+}
